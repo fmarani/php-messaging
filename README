@@ -3,7 +3,7 @@ php-messaging
 
 A set of libraries to build messaging applications using Enterprise Integrations Patterns. 
 It is based on STOMP and ActiveMQ. It offers a higher level of abstraction:
-* message content-type recognition
+* message content-type recognition (now json and text are handled)
 * classes to define channel types
 * channel and message correlation
 
