@@ -1,0 +1,22 @@
+php-messaging
+-------------
+
+A set of libraries to build messaging applications using Enterprise Integrations Patterns. 
+It is based on STOMP and ActiveMQ. It offers a higher level of abstraction:
+* message content-type recognition
+* classes to define channel types
+* channel and message correlation
+
+(Codehaus STOMP libraries included)
+
+Enterprise Integration Patterns
+-------------------------------
+
+These are implemented:
+* Fire and forget pattern
+* Request/Reply pattern
+
+
+TODO
+----
+* use PECL Stomp extension for better performance
